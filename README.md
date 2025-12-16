@@ -6,7 +6,8 @@ I am currently studying<br>I do Web Developement and Machine Learning
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navneetyadav661) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneet-yadav-602b2a281) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navneetyadaviitbombay@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://navneetkumaryadav207001.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://navneetkumaryadav207001.github.io/Portfolio/)
+
 
 
 
